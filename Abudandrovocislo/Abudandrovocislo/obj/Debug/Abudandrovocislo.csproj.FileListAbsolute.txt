@@ -1,0 +1,7 @@
+C:\Users\hyblj\source\repos\Abudandrovocislo\Abudandrovocislo\bin\Debug\Abudandrovocislo.exe.config
+C:\Users\hyblj\source\repos\Abudandrovocislo\Abudandrovocislo\bin\Debug\Abudandrovocislo.exe
+C:\Users\hyblj\source\repos\Abudandrovocislo\Abudandrovocislo\bin\Debug\Abudandrovocislo.pdb
+C:\Users\hyblj\source\repos\Abudandrovocislo\Abudandrovocislo\obj\Debug\Abudandrovocislo.csprojAssemblyReference.cache
+C:\Users\hyblj\source\repos\Abudandrovocislo\Abudandrovocislo\obj\Debug\Abudandrovocislo.csproj.CoreCompileInputs.cache
+C:\Users\hyblj\source\repos\Abudandrovocislo\Abudandrovocislo\obj\Debug\Abudandrovocislo.exe
+C:\Users\hyblj\source\repos\Abudandrovocislo\Abudandrovocislo\obj\Debug\Abudandrovocislo.pdb
