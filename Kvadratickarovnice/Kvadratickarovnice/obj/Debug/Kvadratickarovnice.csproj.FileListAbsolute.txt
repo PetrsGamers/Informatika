@@ -1,0 +1,7 @@
+C:\Users\hyblj\source\repos\Kvadratickarovnice\Kvadratickarovnice\bin\Debug\Kvadratickarovnice.exe.config
+C:\Users\hyblj\source\repos\Kvadratickarovnice\Kvadratickarovnice\bin\Debug\Kvadratickarovnice.exe
+C:\Users\hyblj\source\repos\Kvadratickarovnice\Kvadratickarovnice\bin\Debug\Kvadratickarovnice.pdb
+C:\Users\hyblj\source\repos\Kvadratickarovnice\Kvadratickarovnice\obj\Debug\Kvadratickarovnice.csprojAssemblyReference.cache
+C:\Users\hyblj\source\repos\Kvadratickarovnice\Kvadratickarovnice\obj\Debug\Kvadratickarovnice.csproj.CoreCompileInputs.cache
+C:\Users\hyblj\source\repos\Kvadratickarovnice\Kvadratickarovnice\obj\Debug\Kvadratickarovnice.exe
+C:\Users\hyblj\source\repos\Kvadratickarovnice\Kvadratickarovnice\obj\Debug\Kvadratickarovnice.pdb

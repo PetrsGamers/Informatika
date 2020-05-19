@@ -1,0 +1,7 @@
+C:\Users\hyblj\source\repos\binarnivyhledavani\binarnivyhledavani\obj\Debug\binarnivyhledavani.csprojAssemblyReference.cache
+C:\Users\hyblj\source\repos\binarnivyhledavani\binarnivyhledavani\obj\Debug\binarnivyhledavani.csproj.CoreCompileInputs.cache
+C:\Users\hyblj\source\repos\binarnivyhledavani\binarnivyhledavani\bin\Debug\binarnivyhledavani.exe.config
+C:\Users\hyblj\source\repos\binarnivyhledavani\binarnivyhledavani\bin\Debug\binarnivyhledavani.exe
+C:\Users\hyblj\source\repos\binarnivyhledavani\binarnivyhledavani\bin\Debug\binarnivyhledavani.pdb
+C:\Users\hyblj\source\repos\binarnivyhledavani\binarnivyhledavani\obj\Debug\binarnivyhledavani.exe
+C:\Users\hyblj\source\repos\binarnivyhledavani\binarnivyhledavani\obj\Debug\binarnivyhledavani.pdb

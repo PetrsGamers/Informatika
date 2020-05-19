@@ -1,0 +1,7 @@
+C:\Users\hyblj\source\repos\selectsort\selectsort\bin\Debug\selectsort.exe.config
+C:\Users\hyblj\source\repos\selectsort\selectsort\bin\Debug\selectsort.exe
+C:\Users\hyblj\source\repos\selectsort\selectsort\bin\Debug\selectsort.pdb
+C:\Users\hyblj\source\repos\selectsort\selectsort\obj\Debug\selectsort.csprojAssemblyReference.cache
+C:\Users\hyblj\source\repos\selectsort\selectsort\obj\Debug\selectsort.csproj.CoreCompileInputs.cache
+C:\Users\hyblj\source\repos\selectsort\selectsort\obj\Debug\selectsort.exe
+C:\Users\hyblj\source\repos\selectsort\selectsort\obj\Debug\selectsort.pdb
